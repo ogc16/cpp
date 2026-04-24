@@ -1,4 +1,4 @@
-# cpp
+# C++ Practice Questions
 ## Question 1 
 Booker University library maintains an inventory of books. The list includes the details: Author, price, title,
 book_number and number of copies of each book. Whenever new books are purchased the librarian adds the book
